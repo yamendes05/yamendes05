@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Yara Alexandrina Mendes!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Taboão da Serra, SP  
+📍 São Paulo, SP  
 💻 Apaixonada por tecnologia, música e livros
 
 ---
