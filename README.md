@@ -1,7 +1,7 @@
 <h1 align="center">Yara Alexandrina Mendes</h1>
  
 <p align="center">
-  <b>Estudante de Análise e Desenvolvimento de Sistemas</b><br>
+  <b>Estudante de Engenharia da computação</b><br>
   Foco em back-end com Java e Spring Boot · São Paulo, SP
 </p>
 <p align="center">
